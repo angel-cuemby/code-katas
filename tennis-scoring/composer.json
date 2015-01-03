@@ -1,0 +1,21 @@
+{
+    "name": "cuemby/base_php_project",
+    "description": "Base PHP application skeleton.",
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angel Ramirez",
+            "email": "angel@cuemby.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/Acme"
+        }
+    },
+    "require": {}
+}

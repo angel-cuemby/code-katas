@@ -1,0 +1,25 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "folloing laracasts tutorials code katas",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-notify": "^2.1.0",
+    "gulp-phpspec": "^0.3.1",
+    "gulp-plumber": "^0.6.6",
+    "gulp-run": "^1.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "kata",
+    "tutorials",
+    "php"
+  ],
+  "author": "Ange Ramirez <angel@cuemby.com>",
+  "license": "ISC"
+}
